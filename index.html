@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gopala Krishna HK - Portfolio</title>
+
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <header>
+        <div class="header-left">
+            <div class="logo">G</div>
+            <div class="name">Gopala Krishna</div>
+        </div>
+        <div class="nav-right">
+            <div class="dropdown">
+                <a href="index.html"><i class="fas fa-home"></i> Home</a>
+                <div class="dropdown-content">
+                    <a href="index.html#about"><i class="fas fa-user"></i> About Me</a>
+                </div>
+            </div>
+            <a href="education.html"><i class="fas fa-graduation-cap"></i> Education</a>
+            <div class="dropdown">
+                <a href="skills.html"><i class="fas fa-tools"></i> Skills</a>
+                <div class="dropdown-content">
+                    <a href="skills.html#experience"><i class="fas fa-briefcase"></i> Experience</a>
+                </div>
+            </div>
+            <a href="projects.html"><i class="fas fa-folder-open"></i> Projects</a>
+            <a href="contact.html"><i class="fas fa-envelope"></i> Contact</a>
+        </div>
+    </header>
+
+    <!-- Landing Section -->
+    <section class="landing">
+    <div class="landing-left">
+        <h2 class="intro-text">Hi there 👋,</h2>
+        <h1 class="name-role-line">
+            I'm <span class="big-name">Gopala Krishna HK</span>
+        </h1>
+        <h3 class="passion-role-line">
+            A passionate <span class="big-role">Developer 💻</span>
+        </h3>
+        <button onclick="scrollToAbout()">ABOUT ME ↓</button>
+    </div>
+    <div class="landing-right">
+        <img src="images/your-photo.jpg" alt="Gopala Krishna HK Photo">
+    </div>
+</section>
+
+    <!-- About Me Section -->
+    <section id="about" class="about-interests-section">
+        <div class="about-side">
+            <h2>About Me</h2>
+            <p>
+                I’m <strong>Gopala Krishna HK</strong>, a passionate and self-motivated developer currently pursuing Bachelor of Engineering in Computer Science.
+                I have a deep interest in building modern websites, user-friendly web apps, and interactive interfaces.
+                From designing front-end layouts to exploring back-end technologies, I enjoy learning every aspect of web development.
+                I’m eager to work on real-world projects and continuously upgrade my skills with new programming languages and tools.
+                My goal is to become a full-stack developer and contribute to impactful tech solutions in the future.
+            </p>
+        </div>
+
+        <div class="right-side-column">
+            <div class="interests-side">
+                <h2>My Interests</h2>
+                <ul>
+                    <li>Problem Solving</li>
+                    <li>Coding</li>
+                    <li>Building & Developing Applications</li>
+                </ul>
+            </div>
+
+            <div class="quote-side">
+                <p>"FOCUS ON YOUR ACTIONS AND NOT THE RESULT"</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Smooth Scroll Script -->
+    <script>
+        function scrollToAbout() {
+            document.getElementById('about').scrollIntoView({ behavior: 'smooth' });
+        }
+    </script>
+
+    <!-- Footer -->
+    <footer>
+        © 2025 Gopala Krishna HK. All rights reserved.
+    </footer>
+
+</body>
+</html>
