@@ -59,4 +59,11 @@ This task helped me greatly improve my understanding of HTML semantic structure,
 
 #Output
 
-
+![Image](https://github.com/user-attachments/assets/0dd1d5d8-8992-4119-aa84-b7fe88149327)
+![Image](https://github.com/user-attachments/assets/df500bea-24e3-4e31-867e-685457dd8c36)
+![Image](https://github.com/user-attachments/assets/93de1fdc-8b90-48ae-b856-3e27ad8c09d5)
+![Image](https://github.com/user-attachments/assets/650c9853-dabf-4ebc-8d38-b5950fcf9c31)
+![Image](https://github.com/user-attachments/assets/0110d575-4ba6-4f75-b83c-038cf3157c58)
+![Image](https://github.com/user-attachments/assets/51d4f6b0-56b7-4505-9d51-a0575932df07)
+![Image](https://github.com/user-attachments/assets/ec1c2457-ddce-4d47-b451-15efa1e0f542)
+![Image](https://github.com/user-attachments/assets/5364ef1a-a9c6-4dc2-ae16-6493e847fd55)
