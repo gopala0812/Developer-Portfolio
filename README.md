@@ -57,7 +57,7 @@ I created a responsive and user-friendly navigation bar with dropdowns for secti
 ✅ Learning Outcome:
 This task helped me greatly improve my understanding of HTML semantic structure, CSS styling, responsive design principles, and user experience flow. It gave me hands-on practice in building a full-fledged static website from scratch and prepared me well for real-world web development projects.
 
-#Output
+# Output
 
 ![Image](https://github.com/user-attachments/assets/0dd1d5d8-8992-4119-aa84-b7fe88149327)
 ![Image](https://github.com/user-attachments/assets/df500bea-24e3-4e31-867e-685457dd8c36)
