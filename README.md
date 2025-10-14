@@ -1,17 +1,5 @@
 # DEVELOPER-PORTFOLIO
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: GOPALA KRISHNA HK
-
-*INTERN ID*: CT04DH300
-
-*DOMAIN*: SOFTWARE DEVELOPMENT
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTHOSH
-
 DEVELOPER PORTFOLIO WEBSITE
 As part of the Software Development Internship at CODTECH IT SOLUTIONS PVT. LTD., the first task assigned to me was to create a fully functional and visually appealing Developer Portfolio Website. This task aimed to test my skills in web development, responsive design, UI/UX understanding, and creativity using front-end technologies like HTML, CSS, and basic JavaScript.
 
@@ -67,3 +55,8 @@ This task helped me greatly improve my understanding of HTML semantic structure,
 ![Image](https://github.com/user-attachments/assets/51d4f6b0-56b7-4505-9d51-a0575932df07)
 ![Image](https://github.com/user-attachments/assets/ec1c2457-ddce-4d47-b451-15efa1e0f542)
 ![Image](https://github.com/user-attachments/assets/5364ef1a-a9c6-4dc2-ae16-6493e847fd55)
+
+## Author
+
+**Gopala Krishna H K**  
+B.E CSE, RIT
