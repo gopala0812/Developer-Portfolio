@@ -1,4 +1,4 @@
-# DEVELOPER-PORTFOLIO
+# DEVELOPER-PORTFOLIO WEBSITE
 
 DEVELOPER PORTFOLIO WEBSITE
 As part of the Software Development Internship at CODTECH IT SOLUTIONS PVT. LTD., the first task assigned to me was to create a fully functional and visually appealing Developer Portfolio Website. This task aimed to test my skills in web development, responsive design, UI/UX understanding, and creativity using front-end technologies like HTML, CSS, and basic JavaScript.
